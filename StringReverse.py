@@ -1,0 +1,3 @@
+# Enter a string and the program will reverse it
+# and print it out
+print(input("Please Enter something:")[::-1])
